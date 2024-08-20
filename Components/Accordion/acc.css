@@ -48,6 +48,7 @@ body {
   stroke: var(--main-color);
   height: 24px;
   width: 24px;
+  cursor: pointer;
 }
 .hidden-box{
   grid-column: 2;
